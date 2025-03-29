@@ -11,3 +11,4 @@
 ### Otra Información
 - Este es mi primer contacto con github
 - Tengo una perrita que se llama pelusa
+- Me gusta jugar al futbol
