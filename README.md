@@ -14,6 +14,6 @@
 ### Otra Información
 - Este es mi primer contacto con github.
 - Tengo una perrita que se llama pelusa.
-- (./Pelu.jpg)
+![Pelusa](./Pelu.jpg)
 - Me gusta jugar al futbol, padle, juegos virtuales competitivos.
 - Me gusta el deporte en sí.
